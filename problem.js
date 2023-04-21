@@ -35,4 +35,9 @@ var arraySize = myArray.length;
 var avg = make_avg(myArray, arraySize);
 console.log(avg)
 
+var smartphone = {
+    brand: "iphone",
+    model: "13"
+};
+console.log(smartphone["brand"])
 
